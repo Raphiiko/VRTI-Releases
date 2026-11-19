@@ -1,4 +1,6 @@
-# VRTI Proxy downloads
+# <img src="vrti-icon.png" width="48" align="center" alt=""> VRTI Proxy
+
+Connect VRTI to your treadmill through your Android phone.
 
 **Looking for VRTI (VR Treadmill Interface)?** Get it on Steam:
 https://store.steampowered.com/app/4411910/VRTI__VR_Treadmill_Interface/
