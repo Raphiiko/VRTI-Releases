@@ -1,21 +1,40 @@
-# VRTI has migrated to Steam!
+# VRTI Proxy downloads
 
-Steam Store Page: https://store.steampowered.com/app/4411910/VRTI__VR_Treadmill_Interface/
+**Looking for VRTI (VR Treadmill Interface)?** Get it on Steam:
+https://store.steampowered.com/app/4411910/VRTI__VR_Treadmill_Interface/
 
-## Looking for the free version?
+Looking for the free version? Install the demo from the Steam page. It has the same features as the
+old evaluation version, and you can use it as long as you like.
 
-Install the [demo](https://store.steampowered.com/app/4411910/VRTI__VR_Treadmill_Interface/) from the [Steam store page](https://store.steampowered.com/app/4411910/VRTI__VR_Treadmill_Interface/). 
+Bought a VRTI license key before VRTI moved to Steam? Claim your free Steam key at
+https://raphii.co/vrti/claim-steam-key/.
 
-It is identical to the evaluation version, and you can try it for as long as you'd like, with all the same features, just like before!
+More about VRTI: https://vrti.raphii.co
 
-## Previously Purchased a License Key?
+## What is VRTI Proxy?
 
-If you bought a VRTI license key before the Steam migration, you do not need to purchase VRTI again on Steam.
+VRTI Proxy is a free Android app that lets VRTI reach your treadmill through your phone. Put the
+phone near the treadmill. VRTI on your PC talks to the phone over Wi-Fi, and the phone talks to the
+treadmill over Bluetooth.
 
-Claim your free Steam key here:
+Use it when your PC has no Bluetooth, or when your PC is too far from the treadmill.
 
-https://raphii.co/vrti/claim-steam-key/
+You need an Android phone with Android 8 or later, on the same Wi-Fi network as your PC.
 
-For more information, visit the website:
+## Install
 
-https://vrti.raphii.co
+1. On your phone, open the [latest download](https://github.com/Raphiiko/VRTI-Releases/releases/latest)
+   and tap `VRTI-Proxy-<version>.apk`.
+2. Open the downloaded file. Android asks whether your browser may install apps: allow it, then go
+   back and tap **Install**.
+3. Open VRTI Proxy and allow Bluetooth.
+4. In VRTI on your PC, open **Settings**, set **Connect through** to **Phone**, and pick your phone.
+5. Your phone asks whether to allow your PC. Check that both show the same code, then tap **Allow**.
+
+VRTI Proxy is not on Google Play, so your phone can warn that it does not know the app. That is
+expected.
+
+## Updates
+
+VRTI Proxy updates itself. When a new version is out, the app shows an **Install** button. The first
+time, Android asks you to allow VRTI Proxy to install apps. After the update, open the app again.
